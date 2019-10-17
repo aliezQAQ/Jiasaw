@@ -3,7 +3,7 @@
 ### 导入包
 
 ```
-PM>Install-Package Jiasaw -Version 1.0.0
+PM>Install-Package Jiasaw -Version 1.0.1
 或者Nuget管理界面搜索 Jiasaw
 ```
 

@@ -1,0 +1,13 @@
+D:\MyWorkProject\Jiasaw\Jiasaw\bin\Release\Jiasaw.dll
+D:\MyWorkProject\Jiasaw\Jiasaw\bin\Release\Jiasaw.pdb
+D:\MyWorkProject\Jiasaw\Jiasaw\bin\Release\Newtonsoft.Json.dll
+D:\MyWorkProject\Jiasaw\Jiasaw\bin\Release\System.Net.Http.Formatting.dll
+D:\MyWorkProject\Jiasaw\Jiasaw\bin\Release\System.Web.Http.dll
+D:\MyWorkProject\Jiasaw\Jiasaw\bin\Release\Newtonsoft.Json.xml
+D:\MyWorkProject\Jiasaw\Jiasaw\bin\Release\System.Net.Http.Formatting.xml
+D:\MyWorkProject\Jiasaw\Jiasaw\bin\Release\System.Web.Http.xml
+D:\MyWorkProject\Jiasaw\Jiasaw\obj\Release\Jiasaw.csprojAssemblyReference.cache
+D:\MyWorkProject\Jiasaw\Jiasaw\obj\Release\Jiasaw.csproj.CoreCompileInputs.cache
+D:\MyWorkProject\Jiasaw\Jiasaw\obj\Release\Jiasaw.csproj.CopyComplete
+D:\MyWorkProject\Jiasaw\Jiasaw\obj\Release\Jiasaw.dll
+D:\MyWorkProject\Jiasaw\Jiasaw\obj\Release\Jiasaw.pdb
